@@ -2,4 +2,6 @@ version: STSv1
 mode: enforce
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
+mx: mx1.forwardemail.net
+mx: mx2.forwardemail.net
 max_age: 2419200
